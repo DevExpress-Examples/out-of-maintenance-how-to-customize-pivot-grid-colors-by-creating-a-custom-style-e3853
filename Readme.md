@@ -1,3 +1,8 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [MainPage.xaml](./CS/DXPivotGrid_CustomizeBrushes/MainPage.xaml) (VB: [MainPage.xaml](./VB/DXPivotGrid_CustomizeBrushes/MainPage.xaml))
+<!-- default file list end -->
 # How to customize pivot grid colors by creating a custom style
 
 
